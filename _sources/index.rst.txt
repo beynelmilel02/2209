@@ -1,0 +1,16 @@
+Manuel Rapor Basligi
+====================
+
+Merhaba, bu raporun ana sayfasidir.
+
+.. toctree::
+   :maxdepth: 3
+
+   detaylar
+   links
+
+
+.. figure:: pic1.png
+   :align: center
+   :alt: fig_back
+   :scale: 100%

@@ -1,0 +1,18 @@
+.. _teknik-detay-noktasi:
+
+Detaylar Sayfasi
+================
+
+Burası raporun ikinci sayfasıdır. Detaylı teknik veriler burada yer alır.
+
+Ek Bilgiler
+-----------
+detaylar burada yazılacaktır
+
+
+.. image:: pic1.png
+   :width: 400px
+   :alt: Alternatif Metin
+   :align: center
+   
+
